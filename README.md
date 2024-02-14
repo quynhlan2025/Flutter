@@ -16,4 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/quynhlan2025/Flutter/blob/master/images/bmi_caculator.gif" alt="Finished App" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
